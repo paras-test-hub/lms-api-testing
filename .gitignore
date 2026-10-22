@@ -1,0 +1,41 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.iml
+
+# Maven
+target/
+.classpath
+.project
+.settings/
+
+# Environment
+.env
+.env.local
+
+# Automation state (persistent sequential counters etc.)
+.automation-state/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Reports
+test-results/
+cucumber-reports/
+
+
+# Dependencies
+.m2/
+node_modules/
+
+
+#references
+references/

@@ -1,0 +1,344 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Add the three capstone fields to `ExecutionContext`": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574600122
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574619161
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574946934
+      }
+    ],
+    "1.2 Add the three delegating accessor pairs to `ScenarioContext`": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574600216
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574966784
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789575069230
+      }
+    ],
+    "2.1 Add `createTermSection` to `CohortClient`": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574600322
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574620580
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574947887
+      }
+    ],
+    "2.2 Create `CapstoneJourneyReport`": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574600394
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574621472
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574948960
+      }
+    ],
+    "2.3 Create `CapstoneWorkflow` with the readiness guard and section creation": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574600465
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789575078200
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789575283759
+      }
+    ],
+    "2.4 Create `CapstoneSteps` and `Capstone.feature` with the first two steps": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574600536
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789575291004
+      }
+    ],
+    "3. Checkpoint - foundation and creation slice": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574600610
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789618778796
+      }
+    ],
+    "4.1 Add the enrollment and roster verification methods to `CapstoneWorkflow`": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574600705
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789618780058
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619029856
+      }
+    ],
+    "4.2 Wire the enrollment steps into the step class and feature file": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574600812
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789618781414
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619030946
+      }
+    ],
+    "5.1 Add `addRuntimeCourseToCapstoneSection` to `CapstoneWorkflow`": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574600889
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619032348
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619229236
+      }
+    ],
+    "5.2 Wire the attachment step into the step class and feature file": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574600961
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619033233
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619229350
+      }
+    ],
+    "6.1 Add `getSectionCourses` to `CohortClient`": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601035
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574967630
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789575070339
+      }
+    ],
+    "6.2 Add the mapping lookup helper and `verifyRuntimeCourseInCapstoneSection` to `CapstoneWorkflow`": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601109
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619230788
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619454247
+      }
+    ],
+    "6.3 Wire the course verification step into the step class and feature file": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601181
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619231829
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619454147
+      }
+    ],
+    "7. Checkpoint - enrollment, attachment and resolution slices": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601257
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619454323
+      }
+    ],
+    "8.1 Add `updateTermCourse` to `CohortClient`": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601326
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789575079396
+      },
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789575283944
+      }
+    ],
+    "8.2 Add `buildTermCourseUpdatePayload` and `enableCapstoneCourseGamification` to `CapstoneWorkflow`": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601396
+      },
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619454402
+      }
+    ],
+    "8.4 Wire the gamification step into the step class and feature file": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601465
+      }
+    ],
+    "9.1 Add `verifyCapstoneCourseGamified` to `CapstoneWorkflow`": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601584
+      }
+    ],
+    "9.2 Wire the final verification step into the step class and feature file": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601657
+      }
+    ],
+    "10.1 Add the two cleanup registrations in creation order": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601733
+      }
+    ],
+    "10.2 Finalize the complete eight-step feature file": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601812
+      }
+    ],
+    "10.3 Verify the architectural and isolation review checklist against the finished code": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601883
+      }
+    ],
+    "11. Final checkpoint - full suite and regression gate": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789574601964
+      }
+    ],
+    "1. Context foundation - suite-scoped capstone state": [
+      {
+        "executionId": "0fe85a72-df08-4d4a-bddf-343e4bffe62e",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789575069343
+      }
+    ],
+    "4. Student enrollment slice - the capstone section has a verified member": [
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619031026
+      }
+    ],
+    "5. Course attachment slice - the runtime CourseMaster is attached to the capstone section": [
+      {
+        "executionId": "2c8cb368-bbba-47ef-a22e-4c7f8a7a0f9f",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1789619229435
+      }
+    ]
+  }
+}

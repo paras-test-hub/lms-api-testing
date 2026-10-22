@@ -1,0 +1,394 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Restore the three missing `capstoneResource*` helpers in `src/test/java/com/lms/utils/TestDataFactory.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074345605
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074360100
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074538965
+      }
+    ],
+    "1.2 Add the three Capstone team data helpers to `src/test/java/com/lms/utils/TestDataFactory.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074345993
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074548018
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790076681537
+      }
+    ],
+    "2.1 Add `capstoneTeamUuid` / `capstoneTeamName` to the context": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074349666
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074549448
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790076682964
+      }
+    ],
+    "3.1 Add the pure team-creation payload builder to `src/test/java/com/lms/workflows/CapstoneWorkflow.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074350246
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790076703549
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790077041054
+      }
+    ],
+    "4.1 Add the two admin-token calls to `src/test/java/com/lms/clients/admin/CapstoneClient.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074350633
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074550898
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790076684396
+      }
+    ],
+    "4.2 Create `src/test/java/com/lms/clients/student/StudentCapstoneClient.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074350811
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074551944
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790076685338
+      }
+    ],
+    "5. Checkpoint — offline build and unit tests green": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074351027
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790077043634
+      }
+    ],
+    "6.1 Add `validateCapstoneReadyForTeamFormation(ScenarioContext context)` to `src/test/java/com/lms/workflows/CapstoneWorkflow.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074351243
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790077051960
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790077407739
+      }
+    ],
+    "7.1 Add `createCapstoneTeamWithRuntimeStudent(ScenarioContext context)` to `src/test/java/com/lms/workflows/CapstoneWorkflow.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074351404
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790077410202
+      }
+    ],
+    "8.1 Add `verifyCapstoneTeamCreated(ScenarioContext context)` to `src/test/java/com/lms/workflows/CapstoneWorkflow.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074351544
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790077410582
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790078253344
+      }
+    ],
+    "8.2 Add `verifyAdminSeesRuntimeStudentInTeam(ScenarioContext context)` to `src/test/java/com/lms/workflows/CapstoneWorkflow.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074351693
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790078255088
+      }
+    ],
+    "9.1 Add `verifyStudentSeesCapstoneTeamMembership(ScenarioContext context)` to `src/test/java/com/lms/workflows/CapstoneWorkflow.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074351834
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790078256638
+      }
+    ],
+    "10.1 Add `verifyCapstoneTeamInheritsMetrics(ScenarioContext context)` and `assertMetricSetsEqual(...)` to `src/test/java/com/lms/workflows/CapstoneWorkflow.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074351974
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790078258047
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790078843571
+      }
+    ],
+    "11.1 Add `verifyCapstoneTeamRetainsConfiguration(ScenarioContext context)` and `assertRetainedConfiguration(...)` to `src/test/java/com/lms/workflows/CapstoneWorkflow.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074352099
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790078845410
+      }
+    ],
+    "12.1 Append the S3 comment block and scenario to `src/test/resources/features/10_journeys/Capstone.feature`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074352217
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790078846875
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790079497894
+      }
+    ],
+    "12.2 Add the seven thin step methods to `src/test/java/com/lms/steps/workflows/CapstoneSteps.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074352329
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790078847902
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790079498343
+      }
+    ],
+    "13.1 Verify tag selection": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074352450
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790079498832
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790079948328
+      }
+    ],
+    "13.2 Verify runtime environment isolation by full-suite regression": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074352573
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790079950181
+      },
+      {
+        "executionId": "30ad30a2-6416-40be-94bc-671547f0cd67",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790139830255
+      }
+    ],
+    "13.3 Review untouched-component and no-literals guarantees": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790074352687
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790079499339
+      },
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790079949666
+      }
+    ],
+    "1. Restore compilation and add Capstone team test data": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790076681668
+      }
+    ],
+    "2. Add suite-scoped team identity state": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790076683056
+      }
+    ],
+    "4. Add the client calls": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790076685494
+      }
+    ],
+    "3. Payload builder and its unit coverage": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790077041242
+      }
+    ],
+    "3.2 Add the third `====` section to `src/test/java/com/lms/workflows/CapstoneWorkflowPayloadTest.java`": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790077042455
+      }
+    ],
+    "6. Readiness guard": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790077407919
+      }
+    ],
+    "7. Create the Capstone team": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790077410283
+      }
+    ],
+    "8. Admin-side verification": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790078255245
+      }
+    ],
+    "9. Student-side verification and same-team cross-check": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790078256759
+      }
+    ],
+    "10. Metrics inheritance": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790078843704
+      }
+    ],
+    "11. Configuration retention and report publication": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790078845506
+      }
+    ],
+    "12. Append the S3 scenario and wire the step definitions": [
+      {
+        "executionId": "7fa5f7bb-9ec4-445b-a930-5ba5874b97c5",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790079498498
+      }
+    ],
+    "13. Final checkpoint — tag selection, regression and isolation review": [
+      {
+        "executionId": "30ad30a2-6416-40be-94bc-671547f0cd67",
+        "chatSessionId": "sess_fe7441fc-90db-446d-ab4f-fe352d21ce20",
+        "timestamp": 1790139830404
+      }
+    ]
+  }
+}

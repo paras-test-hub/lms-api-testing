@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration packages="org.apache.logging.log4j.core">
+    <Properties>
+        <Property name="log.path">logs</Property>
+        <Property name="log.level">${env:LOG_LEVEL:-INFO}</Property>
+    </Properties>
+
+    <Appenders>
+        <!-- Console Appender -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout
+                pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+        </Console>
+
+        <!-- File Appender - All Logs -->
+        <File name="FileAppender"
+              fileName="${log.path}/test-execution.log"
+              append="false">
+            <PatternLayout
+                pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+        </File>
+
+        <!-- File Appender - Error Logs Only -->
+        <File name="ErrorFileAppender"
+              fileName="${log.path}/errors.log"
+              append="false">
+            <PatternLayout
+                pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+            <ThresholdFilter level="ERROR" onMatch="ACCEPT" onMismatch="DENY" />
+        </File>
+
+        <!-- File Appender - REST Logs -->
+        <File name="RestLogsAppender"
+              fileName="${log.path}/rest-requests.log"
+              append="false">
+            <PatternLayout
+                pattern="%d{HH:mm:ss.SSS} - %msg%n" />
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <!-- RestAssured Logging -->
+        <Logger name="io.restassured" level="DEBUG" additivity="false">
+            <AppenderRef ref="Console" />
+            <AppenderRef ref="RestLogsAppender" />
+        </Logger>
+
+        <!-- Cucumber Logging -->
+        <Logger name="io.cucumber" level="INFO" additivity="false">
+            <AppenderRef ref="Console" />
+            <AppenderRef ref="FileAppender" />
+        </Logger>
+
+        <!-- Application Logging -->
+        <Logger name="com.lms" level="${log.level}" additivity="false">
+            <AppenderRef ref="Console" />
+            <AppenderRef ref="FileAppender" />
+            <AppenderRef ref="ErrorFileAppender" />
+        </Logger>
+
+        <!-- Root Logger -->
+        <Root level="${log.level}">
+            <AppenderRef ref="Console" />
+            <AppenderRef ref="FileAppender" />
+            <AppenderRef ref="ErrorFileAppender" />
+        </Root>
+    </Loggers>
+</Configuration>

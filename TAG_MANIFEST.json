@@ -1,0 +1,386 @@
+{
+  "student": [
+    {
+      "tag": "authentication",
+      "pascal": "Authentication",
+      "endpointCount": 49
+    },
+    {
+      "tag": "academicSummary",
+      "pascal": "AcademicSummary",
+      "endpointCount": 3
+    },
+    {
+      "tag": "aiSummary",
+      "pascal": "AiSummary",
+      "endpointCount": 8
+    },
+    {
+      "tag": "allyBot",
+      "pascal": "AllyBot",
+      "endpointCount": 8
+    },
+    {
+      "tag": "announcement",
+      "pascal": "Announcement",
+      "endpointCount": 4
+    },
+    {
+      "tag": "assignment",
+      "pascal": "Assignment",
+      "endpointCount": 4
+    },
+    {
+      "tag": "bidding",
+      "pascal": "Bidding",
+      "endpointCount": 2
+    },
+    {
+      "tag": "anonymousAuth",
+      "pascal": "AnonymousAuth",
+      "endpointCount": 8
+    },
+    {
+      "tag": "capstone",
+      "pascal": "Capstone",
+      "endpointCount": 12
+    },
+    {
+      "tag": "club",
+      "pascal": "Club",
+      "endpointCount": 3
+    },
+    {
+      "tag": "clubMember",
+      "pascal": "ClubMember",
+      "endpointCount": 1
+    },
+    {
+      "tag": "clubType",
+      "pascal": "ClubType",
+      "endpointCount": 1
+    },
+    {
+      "tag": "event",
+      "pascal": "Event",
+      "endpointCount": 5
+    },
+    {
+      "tag": "eventMember",
+      "pascal": "EventMember",
+      "endpointCount": 1
+    },
+    {
+      "tag": "course",
+      "pascal": "Course",
+      "endpointCount": 9
+    },
+    {
+      "tag": "doubt",
+      "pascal": "Doubt",
+      "endpointCount": 24
+    },
+    {
+      "tag": "feed",
+      "pascal": "Feed",
+      "endpointCount": 46
+    },
+    {
+      "tag": "form",
+      "pascal": "Form",
+      "endpointCount": 5
+    },
+    {
+      "tag": "news",
+      "pascal": "News",
+      "endpointCount": 3
+    },
+    {
+      "tag": "program",
+      "pascal": "Program",
+      "endpointCount": 17
+    },
+    {
+      "tag": "session",
+      "pascal": "Session",
+      "endpointCount": 12
+    },
+    {
+      "tag": "ticket",
+      "pascal": "Ticket",
+      "endpointCount": 6
+    },
+    {
+      "tag": "user",
+      "pascal": "User",
+      "endpointCount": 6
+    },
+    {
+      "tag": "notes",
+      "pascal": "Notes",
+      "endpointCount": 5
+    },
+    {
+      "tag": "proctoring",
+      "pascal": "Proctoring",
+      "endpointCount": 6
+    },
+    {
+      "tag": "lectureLense",
+      "pascal": "LectureLense",
+      "endpointCount": 19
+    }
+  ],
+  "admin": [
+    {
+      "tag": "authentication",
+      "pascal": "Authentication",
+      "endpointCount": 10
+    },
+    {
+      "tag": "program",
+      "pascal": "Program",
+      "endpointCount": 297
+    },
+    {
+      "tag": "announcement",
+      "pascal": "Announcement",
+      "endpointCount": 8
+    },
+    {
+      "tag": "attendance",
+      "pascal": "Attendance",
+      "endpointCount": 8
+    },
+    {
+      "tag": "reportCard",
+      "pascal": "ReportCard",
+      "endpointCount": 14
+    },
+    {
+      "tag": "grading",
+      "pascal": "Grading",
+      "endpointCount": 18
+    },
+    {
+      "tag": "lifeAtMu-clubs",
+      "pascal": "LifeAtMuClubs",
+      "endpointCount": 9
+    },
+    {
+      "tag": "lifeAtMu-events",
+      "pascal": "LifeAtMuEvents",
+      "endpointCount": 12
+    },
+    {
+      "tag": "lifeAtMu-clubMembers",
+      "pascal": "LifeAtMuClubMembers",
+      "endpointCount": 3
+    },
+    {
+      "tag": "lifeAtMu-clubTypes",
+      "pascal": "LifeAtMuClubTypes",
+      "endpointCount": 1
+    },
+    {
+      "tag": "lifeAtMu-eventMembers",
+      "pascal": "LifeAtMuEventMembers",
+      "endpointCount": 3
+    },
+    {
+      "tag": "academicsLiveTracker",
+      "pascal": "AcademicsLiveTracker",
+      "endpointCount": 6
+    },
+    {
+      "tag": "adminOverview",
+      "pascal": "AdminOverview",
+      "endpointCount": 1
+    },
+    {
+      "tag": "allyBot",
+      "pascal": "AllyBot",
+      "endpointCount": 7
+    },
+    {
+      "tag": "disciplinaryLog",
+      "pascal": "DisciplinaryLog",
+      "endpointCount": 14
+    },
+    {
+      "tag": "facultyPersona",
+      "pascal": "FacultyPersona",
+      "endpointCount": 12
+    },
+    {
+      "tag": "feed",
+      "pascal": "Feed",
+      "endpointCount": 23
+    },
+    {
+      "tag": "lifeAtMu-service",
+      "pascal": "LifeAtMuService",
+      "endpointCount": 1
+    },
+    {
+      "tag": "pollManagement",
+      "pascal": "PollManagement",
+      "endpointCount": 11
+    },
+    {
+      "tag": "sentimentAnalysis",
+      "pascal": "SentimentAnalysis",
+      "endpointCount": 3
+    },
+    {
+      "tag": "admin",
+      "pascal": "Admin",
+      "endpointCount": 20
+    },
+    {
+      "tag": "analytics",
+      "pascal": "Analytics",
+      "endpointCount": 4
+    },
+    {
+      "tag": "placementJobsList",
+      "pascal": "PlacementJobsList",
+      "endpointCount": 39
+    },
+    {
+      "tag": "placementApplication",
+      "pascal": "PlacementApplication",
+      "endpointCount": 31
+    },
+    {
+      "tag": "placementCompanyList",
+      "pascal": "PlacementCompanyList",
+      "endpointCount": 11
+    },
+    {
+      "tag": "placementConfiguration",
+      "pascal": "PlacementConfiguration",
+      "endpointCount": 5
+    },
+    {
+      "tag": "integration",
+      "pascal": "Integration",
+      "endpointCount": 42
+    },
+    {
+      "tag": "userProfile",
+      "pascal": "UserProfile",
+      "endpointCount": 13
+    },
+    {
+      "tag": "feed-redux",
+      "pascal": "FeedRedux",
+      "endpointCount": 0
+    },
+    {
+      "tag": "form",
+      "pascal": "Form",
+      "endpointCount": 11
+    },
+    {
+      "tag": "newsFeed",
+      "pascal": "NewsFeed",
+      "endpointCount": 4
+    },
+    {
+      "tag": "reactFlow",
+      "pascal": "ReactFlow",
+      "endpointCount": 1
+    },
+    {
+      "tag": "userVariable",
+      "pascal": "UserVariable",
+      "endpointCount": 1
+    },
+    {
+      "tag": "aiHeadshot",
+      "pascal": "AiHeadshot",
+      "endpointCount": 9
+    },
+    {
+      "tag": "analyticsPage",
+      "pascal": "AnalyticsPage",
+      "endpointCount": 3
+    },
+    {
+      "tag": "clubs",
+      "pascal": "Clubs",
+      "endpointCount": 7
+    },
+    {
+      "tag": "courseMaster",
+      "pascal": "CourseMaster",
+      "endpointCount": 1
+    },
+    {
+      "tag": "emailConfiguration",
+      "pascal": "EmailConfiguration",
+      "endpointCount": 2
+    },
+    {
+      "tag": "events",
+      "pascal": "Events",
+      "endpointCount": 11
+    },
+    {
+      "tag": "gereralConfiguration",
+      "pascal": "GereralConfiguration",
+      "endpointCount": 1
+    },
+    {
+      "tag": "grades",
+      "pascal": "Grades",
+      "endpointCount": 6
+    },
+    {
+      "tag": "leaveManagement",
+      "pascal": "LeaveManagement",
+      "endpointCount": 3
+    },
+    {
+      "tag": "lectureLense",
+      "pascal": "LectureLense",
+      "endpointCount": 8
+    },
+    {
+      "tag": "photos",
+      "pascal": "Photos",
+      "endpointCount": 0
+    },
+    {
+      "tag": "programManagement",
+      "pascal": "ProgramManagement",
+      "endpointCount": 18
+    },
+    {
+      "tag": "reviewRequestUpdate",
+      "pascal": "ReviewRequestUpdate",
+      "endpointCount": 3
+    },
+    {
+      "tag": "organization",
+      "pascal": "Organization",
+      "endpointCount": 144
+    },
+    {
+      "tag": "tickets",
+      "pascal": "Tickets",
+      "endpointCount": 1
+    },
+    {
+      "tag": "sessionVideos",
+      "pascal": "SessionVideos",
+      "endpointCount": 9
+    },
+    {
+      "tag": "userManagement",
+      "pascal": "UserManagement",
+      "endpointCount": 6
+    }
+  ]
+}
